@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seasonable advice concerning ecclesiasticall affairs, or, The prudent speech of a learned privy councellor to King James the 5th of Scotland about the year 1539 occasioned by the diversity of opinions in matters of religion then in that kingdome / presented to the publick view by a cordiall well-wisher to the peace and tranquillity of this kingdome.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58904</idno><idno type="EEBO-CITATION">14153172</idno>
+  <idno type="VID">102119</idno>
+  <idno type="EEBO-PROQUEST">2248497623</idno>
+  
+            <idno type="STC">Wing S2208</idno>
+            <idno type="STC">ESTC R34231</idno>
+            <idno type="OCLC">14153172</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58904)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102119)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1069:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Seasonable advice concerning ecclesiasticall affairs, or, The prudent speech of a learned privy councellor to King James the 5th of Scotland about the year 1539 occasioned by the diversity of opinions in matters of religion then in that kingdome / presented to the publick view by a cordiall well-wisher to the peace and tranquillity of this kingdome.</title>
+               </titleStmt>
+               <extent>[2], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Brewster,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Church and state --  Scotland.</term>
+               <term type="geographic_name">Scotland --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102119:1"/>
+            <pb facs="tcp:102119:1"/>
+            <p>Seasonable Advice CONCERNING Ecclesiasticall Affairs; OR, The Prudent Speech of a Learned Privy Councellor TO King James the 5th▪ OF SCOTLAND.</p>
+            <p>About the Year, 1539, Occasioned by the diversity of Opinions in matters of Religion then in that KINGDOME▪</p>
+            <p>Presented to the publick view; by a Cor<g ref="char:EOLhyphen"/>diall wel-willer to the Peace and Tranquillity of this KINGDOME.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Brewster</hi> at the Crane in <hi>St. Pauls</hi>-Church-Yard. 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:102119:2"/>
+            <pb n="1" facs="tcp:102119:2"/>
+            <head>Seasonable Advice <hi>CONCERNING</hi> Ecclesiasticall Affairs, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Kingdome of <hi>Scotland</hi> now began to be divided in Opinions of Religion; they which held the Helm of State, labouring to Reconcile them: the <hi>King</hi> was sore perplexed, and uncertain what course to follow; suppresse them he could not; to give way to them without shaking of the strongest beams of the po<g ref="char:EOLhyphen"/>licy of his Kingdome, seemed to him impossible. His Privy Councellors being more of his Antient Servants then Nobles or Church-men, as they favoured, gave their severall Opinions, some one way, some another: a freedome of speech being given, one of them as they were in his Chamber together spake to this pur<g ref="char:EOLhyphen"/>pose,</p>
+            <p>
+               <hi>SIR,</hi> Amongst the many blessings your Subjects do enjoy under this your Government, this is not the l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ast; that for the Weal of your Majesty, and for the Publick good of the Kingdom, the meanest of your Sub<g ref="char:EOLhyphen"/>jects may freely open his mind to declare his Opinion
+<pb n="2" facs="tcp:102119:3"/> unto you his Soveraign: and if ever there was a time in which grave, good and sound Counsel should be delive<g ref="char:EOLhyphen"/>red to your Majesty, it is this, and the difficulties of the Common-Wealth do now require it.</p>
+            <p>The Estate of your Kingdome is troubled with di<g ref="char:EOLhyphen"/>versity of Opinions, concerning Religion. It is to be wished, that the one only true Religion were in the hearts of all your Subjects: (since diversity of Opinions of Religion and Heresies are the very punishment of Al<g ref="char:EOLhyphen"/>mighty God upon men for their horrible vices and roa<g ref="char:EOLhyphen"/>ring sins: and when men forsake his fear and true obe<g ref="char:EOLhyphen"/>die<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce, God abandoneth them to their Opinions, phan<g ref="char:EOLhyphen"/>tasies in Religion, out of which arise partialities, facti<g ref="char:EOLhyphen"/>ons, divisions, strife, intestine discords, which burst forth into civill Wars, and in short time bring Kingdoms and Common-Wealths to their last period) but mat<g ref="char:EOLhyphen"/>ters arising to that height and disorder, as by all appear<g ref="char:EOLhyphen"/>ance they are like to advance in this Kingdom; The number of Sectaries dayly increasing: without dissem<g ref="char:EOLhyphen"/>bling my thoughts to your Majesty, the preservation of the people being the Supream and principall Law which God Almighty hath enjoyned to all Princes. I hold it more expedient to give place to the exercise of both Religions, then under pretence and shadow of them to suffer the Common peace of your Subjects to be torn in pieces. What can <hi>Wisdome</hi> [SIR] advise you to do with these Separatists? either they must be Tolerated for a time, or they must altogether be removed, and that by death or banishment.</p>
+            <p>So soon as a Prince begins to spoil, banish, kill, burn his people for matters abstract from sence, and altogether Spirituall, he becomes as it were a plague unto them. It is an errour of State in a Prince for an Opinion of pi<g ref="char:EOLhyphen"/>ety,
+<pb n="3" facs="tcp:102119:3"/> to condemn to death the Adherers to new Doctrine; for the constancy and patience of those who voluntarily suffer all Temporall miseries, and death it self for mat<g ref="char:EOLhyphen"/>ters of faith, stir up numbers who at first and before they had suffered were ignorant of their Faith and Doctrine, not only to favour their cause but to embrace their O<g ref="char:EOLhyphen"/>pinions, Pity and Commiseration opening the Gates. Thus their belief spreadeth it se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f abroad, and their num<g ref="char:EOLhyphen"/>ber dayly increaseth.</p>
+            <p>It is no lesse errour of State to banish them; banished men are so many enemies abroad, ready upon all occasi<g ref="char:EOLhyphen"/>ons to invade their Native Country, to trouble the Peace and Tranquillity of your Kingdome. To take Arms a<g ref="char:EOLhyphen"/>gainst Sectaries and Separatist, wil be a great enterprize; a matter hard and of many dangers. Religion cannot be Preached by Arms: the first Christians detested that Form of proceedings, force and compulsion may bring forth Hypocrites not true Christians. If there be any Heresie among your people this wound is in the soul; our souls being spirituall substances, upon which fire and Iron cannot work, they must be overcome with spiritual Arms. Love the men and pity their errors.</p>
+            <p>Who can lay upon a man a necessity to believe that which he will not bel eve? or what he will believe, or doth believe, not to believe? no Prince hath such power over the souls and thoughts of men, as he hath over their bodies. Now to ruine and extirpate all thoss Sectaries, what will it prove else then to cut off one of your armes to the great prejudice of your Kingdome and weakning of the State? they dayly increasing in number, and no man being so miserable and mean but he is a Member of the State. The more easie manner and Nobler way were to Tollerate both Religions, and grant a place to two
+<pb n="4" facs="tcp:102119:4"/> Churches in the Kingdom til it shal please Almighty God to return the minds of your Subjects &amp; turn them all of one will and opinion. Be content to keep that which you may (SIR) since you cannot that which you would.</p>
+            <p>It is a false and erroneous Opinion that a Kingdome cannot subsist, which tolerateth two Religions: diver<g ref="char:EOLhyphen"/>sity of Religion shutteth not up society, nor barreth ci<g ref="char:EOLhyphen"/>vil conversation among men: a little time will make Persons of different Religions, contract such accquain<g ref="char:EOLhyphen"/>tance, custome, familiarity together, that they will be intermixt in one City, family, yea marriage bed, State and Religion, having nothing common. Why (I Pray) may not two Religions be suffered in a State, till by some sweet and easie means they may be reduced to a right Government? since in the (Church which should be Union it self, and of which the <hi>Roman</hi>-Church much vaunteth, almost infinite Sects, and kind of Monks are suffered, differing in their Laws, Rules of Government, fashions of living, dye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, apparell, maint<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce, and o<g ref="char:EOLhyphen"/>ther Opinions of Perf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctions, and who s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>qu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r them<g ref="char:EOLhyphen"/>selves from our publick union. The <hi>Rom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> Empire had i'ts extension not by similitude and liken<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ss of Religion; different Religions, providing they enterprize not pra<g ref="char:EOLhyphen"/>ctice nothing against t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Laws of the Kingdome, may be tolerated in a State. The Murthers, Mass<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cres, Battells, which arise and are like dayly to increase among Chri<g ref="char:EOLhyphen"/>stians, all which are undertaken for Religion, are a thou<g ref="char:EOLhyphen"/>sand times more execrable, and be more open, plain, flat impiety then this liberty of diversity of Religions, with a quiet peace can be unjust. For as much as the greatest part of those w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o fl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sh themselves in blood and slaughter, and overcome by arms the peace of their nei<g ref="char:EOLhyphen"/>bours (whom they should love as themselves) spoyling
+<pb n="5" facs="tcp:102119:4"/> and R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vaging like famished Lyons sacrifices th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir souls to the infernall powers without further means or hopes of their over-recovering or coming back, when these o<g ref="char:EOLhyphen"/>ther<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are in some way of Repentance. In seeking liber<g ref="char:EOLhyphen"/>ty of Religion, these men seek not to believe any thing that may come in their brains; but to us<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Religion ac<g ref="char:EOLhyphen"/>cording to the first Christian Institutions; serving God and obeying the Laws under which they were born.</p>
+            <p>That Maxim so often r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>peated amongst the Church men of <hi>R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me,</hi> that the chase and following of Hereticks is more necessary then that of infidels is well applyed for the enlarging and increasing the Dominions Sove<g ref="char:EOLhyphen"/>raignty &amp; power of the Pope; but not for the amplifying and extendintg of the Christian Religion, and the weal and benfi of the Christian Common-Wealth.</p>
+            <p>Kingdomes and Soveraignities should not be govern<g ref="char:EOLhyphen"/>ned by the Laws and Interest of Priests and Church men but according to the exigency, need as the case requireth of the Publick Weal, which often i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> necessitated to passe and Tollerate some defects and faults. It is the duty of all Christian Princes to endeavour &amp; take pains that their Subjects imbrace the true faith, as that semblably and in even parts they observe all Gods Commandents and not more one Commandment then another.</p>
+            <p>Notwithstanding when a vice cannot be extirpate and taken away without the ruine of the State: it wou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d ap<g ref="char:EOLhyphen"/>pear to humane judgements that it should be suffered: Neither is there a greater Obligation, bond nee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssity of Law to punish Hereticks, more then Fornicators, which yet for the peace and Tranquility of the State; are Tol<g ref="char:EOLhyphen"/>lerated and passed over. Neither can a greater incon<g ref="char:EOLhyphen"/>veniency and harm follow, if we shall suffer men to live in our Common-Wealth who believe not, nor embrace
+<pb n="6" facs="tcp:102119:5"/> not all our Opinions. In an Estate many things <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for the time tollerated, because they cannot without the to<g ref="char:EOLhyphen"/>tall ruine of the State be suddenly amended and refor<g ref="char:EOLhyphen"/>med.</p>
+            <p>These men ore of that same nature and condition of which we are: they worship as we do one God; they believe those very same holy Records; we aim at Sal<g ref="char:EOLhyphen"/>vation, we may fear to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffend God; we both set be<g ref="char:EOLhyphen"/>fore us our happinesse. The differe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce between them and us, hangeth upon this one point, that they having f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>und abuses in our Church r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quire a R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>formation. Now shall it be <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>id for that we run divers ways to one <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd; understand not rightly one another Language, we shall pursue others wi h fire and s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord, and extirpate o<g ref="char:EOLhyphen"/>thers from the face of the Earth? God is not in the bit<g ref="char:EOLhyphen"/>ter divisions and alleniation <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffection, nor in the ra<g ref="char:EOLhyphen"/>ging flames of sedition, nor in the Tempests of turbulent Whirlewinds of contradictions and disputations, but in the calm and gentle brea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hings of peace and concord. If any wander out of the high-way, we bring him to it a<g ref="char:EOLhyphen"/>gain, if any be indorknesse we shew him light and kill him not. In Musicall Instruments, if a string j<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r and be out of Tune, we do not f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ettingly break it, but leisure<g ref="char:EOLhyphen"/>ly vere about to concord: and shall we be so churlish, cruell, unchritable, so wedded to our own superstit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous Opi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions, that we wil barbourously banish, kill, burn &amp; those whom by loved sweetnesse we might readily <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is and recall again? Let us one and merit of those men by reason let them be cited to a fre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Counsel it may be they sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll not be proved Hereticks, neither that they main<g ref="char:EOLhyphen"/>tain Opinions condemned by ancient Counsels, let their Religion be compared and parallel'd with the Rel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gion of the first age of the Church.</p>
+            <pb n="7" facs="tcp:102119:5"/>
+            <p>Shall we hold this people worse then the Jews, which yet have their Synagogues at <hi>Rome</hi> it self? let them re<g ref="char:EOLhyphen"/>ceive instructions from a free and lawfull Councill, and fors<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke their errours, when they shal be clearly and fair<g ref="char:EOLhyphen"/>ly demonstrated unto them: Heresie is an errour in the fundamentall grounds of Religion. Schisme intendeth a resolution to separation. Let a good Councill be con<g ref="char:EOLhyphen"/>vocated, and so if they be ready or not to reunite them<g ref="char:EOLhyphen"/>selves unto us. That which they believe is not evil, but to some it will appear they believe not not enough, and that there is in them rather a defect of good then any ha<g ref="char:EOLhyphen"/>bit of evil. Other points when they shall be considered, sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll be sound to consist in externall Ceremonies of the Church rather in the substance of of Doctrine, or what is essential to Christianity. These men should be judge<g ref="char:EOLhyphen"/>ed before condemned, and they should be heard before they be judged: which being holily and dprightly done, we shall find it is not our Religions but our private In<g ref="char:EOLhyphen"/>terests and passions whic troubleth us and the State.</p>
+            <p>The King followed not this Opinion but gave him<g ref="char:EOLhyphen"/>self over to the Counsel and Goverment of the Prelates wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch in a few years brought inevitable destruction both on himself and Kingdome.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>There is new published the <hi>Female Duel</hi> or the Ladies-Looking Glass representing a Scripture Combate about buisiness of Religi<g ref="char:EOLhyphen"/>on between ta Roman-Catholick Lady, and the Wife of dignified Person in the Church of <hi>England.</hi> Sold by <hi>Edward Brewst<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> at the Crane in St. <hi>Pauls</hi>-Church yard.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
